@@ -1,0 +1,14 @@
+int main(void)
+{
+}
+
+static void *func(int a, char *b){}
+
+int func(int a,
+				 int b,
+				 struct a a) {
+
+int func(int a,
+				 int b,
+				 struct a a)
+{
